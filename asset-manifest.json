@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Rohit0610-code/Student-Task-Manager/static/css/main.ca139402.css",
-    "main.js": "/Rohit0610-code/Student-Task-Manager/static/js/main.c6a56e55.js",
-    "index.html": "/Rohit0610-code/Student-Task-Manager/index.html",
-    "main.ca139402.css.map": "/Rohit0610-code/Student-Task-Manager/static/css/main.ca139402.css.map",
-    "main.c6a56e55.js.map": "/Rohit0610-code/Student-Task-Manager/static/js/main.c6a56e55.js.map"
+    "main.css": "/Student-Task-Manager/static/css/main.ca139402.css",
+    "main.js": "/Student-Task-Manager/static/js/main.c6a56e55.js",
+    "index.html": "/Student-Task-Manager/index.html",
+    "main.ca139402.css.map": "/Student-Task-Manager/static/css/main.ca139402.css.map",
+    "main.c6a56e55.js.map": "/Student-Task-Manager/static/js/main.c6a56e55.js.map"
   },
   "entrypoints": [
     "static/css/main.ca139402.css",
