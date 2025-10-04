@@ -50,7 +50,7 @@ const Footer = () => {
         </div>
         <hr className="my-3" />
         <div className="text-center">
-          <small>&copy; 2024 Student Task Manager. Built with React & Bootstrap.</small>
+          <small>&copy; 2025 Student Task Manager. Built with React & Bootstrap.</small>
         </div>
       </div>
     </footer>
