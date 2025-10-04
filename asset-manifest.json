@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Rohit0610-code/Student-Task-Manager.git/static/css/main.ca139402.css",
+    "main.js": "/Rohit0610-code/Student-Task-Manager.git/static/js/main.c6a56e55.js",
+    "index.html": "/Rohit0610-code/Student-Task-Manager.git/index.html",
+    "main.ca139402.css.map": "/Rohit0610-code/Student-Task-Manager.git/static/css/main.ca139402.css.map",
+    "main.c6a56e55.js.map": "/Rohit0610-code/Student-Task-Manager.git/static/js/main.c6a56e55.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca139402.css",
+    "static/js/main.c6a56e55.js"
+  ]
+}
